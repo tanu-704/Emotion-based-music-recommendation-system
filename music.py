@@ -8,7 +8,7 @@ from keras.models import load_model
 import webbrowser
 
 # model  = load_model("model.h5")
-model = tf.keras.models.load_model("model.h5", compile = False)
+model = load_model("model.h5", compile = False)
 label = np.load("labels.npy")
 holistic = mp.solutions.holistic
 hands = mp.solutions.hands
