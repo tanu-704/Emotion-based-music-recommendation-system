@@ -1,6 +1,6 @@
 streamlit
 streamlit-webrtc
 mediapipe
-tensorflow-gpu==2.6.0
+tensorflow==2.3.0
 opencv-python-headless
 opencv-python
