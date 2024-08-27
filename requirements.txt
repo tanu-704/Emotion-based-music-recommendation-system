@@ -3,3 +3,4 @@ streamlit_webrtc
 mediapipe
 tensorflow
 opencv-python-headless
+opencv-python
