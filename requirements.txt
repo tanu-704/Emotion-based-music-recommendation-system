@@ -1,5 +1,6 @@
 streamlit
 streamlit_webrtc
-opencv-python
 mediapipe
 tensorflow
+opencv-python-headless
+libgl1
